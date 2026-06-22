@@ -1,2 +1,0 @@
-# geekstore
-actividad formativa utn
